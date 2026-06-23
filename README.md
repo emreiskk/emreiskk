@@ -24,11 +24,4 @@ Modern JavaScript ekosisteminde uzmanlaşarak, kusursuz arayüz tasarımları il
 *   **Backend & Veri:** Bulut tabanlı veritabanı mimarisi, REST API entegrasyonu ve güvenli kullanıcı yönetimi.
 *   **Entegrasyonlar:** Gelişmiş Yapay Zeka (AI) yetenekleri ve Uygulama İçi Satın Alma (In-App Purchase) uçtan uca altyapıları.
 
----
-
-### 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emreiskk&show_icons=true&theme=radical&locale=tr)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=emreiskk&theme=radical&locale=tr)
 
