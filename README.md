@@ -17,7 +17,8 @@ Modern JavaScript ekosisteminde uzmanlaşarak, kusursuz arayüz tasarımları il
 
 ### 💻 Teknoloji Yığınım & Mimari
 
-[![Skill Icons](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,git,figma&perline=8)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,supabase,firebase,mongodb,git,figma,android,apple&perline=7)](https://skillicons.dev)
+
 
 *   **Mobil Geliştirme:** Çapraz platform gücü ve native performanslı mobil mimariler.
 *   **Web Geliştirme:** Modern web standartları, sunucu tarafı işleme (SSR) ve kusursuz arayüzler.
