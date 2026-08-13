@@ -14,7 +14,7 @@ Modern mobil (**React Native**), web (**Next.js 15**) ve 3B grafik/fizik (**Thre
 
 ### 🚀 Öne Çıkan Ürünlerim & Projelerim
 
-*   📱 **[Snapfin](https://apps.apple.com/tr/app/snapfin/id6764291062?l=tr)** — Yapay zeka destekli akıllı finans ve bütçe asistanı. Fiş okuma (OpenAI Vision), akıllı harcama takibi ve RevenueCat abonelik mimarileri. *(App Store'da Yayında)*
+*   📱 **[Snapfin](https://snapfinapp.com/)** — Yapay zeka destekli akıllı finans ve bütçe asistanı. Fiş okuma (OpenAI Vision), akıllı harcama takibi ve RevenueCat abonelik mimarileri. *([Web Sitesi](https://snapfinapp.com/) & [App Store](https://apps.apple.com/tr/app/snapfin/id6764291062?l=tr))*
 *   📝 **[TASK.İO](https://apps.apple.com/tr/app/task-i-o/id6757111226?l=tr)** — 11 dil destekli, takvim, bildirimler ve istatistiklerle akıllı cross-platform görev yönetim platformu. *(App Store & Google Play'de Yayında)*
 *   🚛 **[OptiLoad 3D](https://optiload3d.com)** — Saf 3B fizik motoru (Three.js & Python FastAPI), uzamsal ızgara kısıtları ve taban dengeli otonom tır/konteyner yükleme optimizasyon platformu. *(optiload3d.com'da Yayında)*
 *   ☕ **[COFFEEhouse](https://github.com/emreiskk/Coffee_House_App)** — Modern React Native & Expo tabanlı, gelişmiş sepet ve ödeme entegrasyonlu kahve sipariş uygulaması.
