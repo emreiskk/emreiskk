@@ -43,4 +43,4 @@ Benimle iletişime geçmek, projelerim hakkında detaylı bilgi almak veya iş b
 
 - 📧 **E-Posta:** [emreisikdeveloper@gmail.com](mailto:emreisikdeveloper@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/emreisikdeveloper](https://www.linkedin.com/in/emreisikdeveloper/)
-- 🌐 **Web & Demos:** [optiload3d.com](https://optiload3d.com)
+- 📸 **Instagram:** [instagram.com/emreisikdeveloper](https://instagram.com/emreisikdeveloper)
