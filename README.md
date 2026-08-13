@@ -5,8 +5,6 @@
 
 Modern mobil (**React Native**), web (**Next.js 15**) ve 3B grafik/fizik (**Three.js & Python**) ekosisteminde uzmanlaşarak; yüksek performanslı mobil uygulamalar, yapay zeka entegrasyonları ve endüstriyel mikroservis mimarileri inşa ediyorum. Sadece kod yazmıyor; fikirleri yayınlanmış, yaşayan dijital ürünlere dönüştürüyorum.
 
-[![OptiLoad 3D](https://img.shields.io/badge/OptiLoad%203D-optiload3d.com-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://optiload3d.com)
-[![App Store](https://img.shields.io/badge/App_Store-Snapfin_%26_TASK.İO-0D96F6?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/tr/app/snapfin/id6764291062?l=tr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emreisikdeveloper-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emreisikdeveloper/)
 [![Email](https://img.shields.io/badge/Email-emreisikdeveloper%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emreisikdeveloper@gmail.com)
 
@@ -36,15 +34,6 @@ Modern mobil (**React Native**), web (**Next.js 15**) ve 3B grafik/fizik (**Thre
 - 🌐 **Modern Web & 3B Graphics:** Next.js 15 (App Router), Three.js / React Three Fiber, Tailwind CSS, Component-Driven Design.
 - ⚙️ **Backend & Mikroservisler:** Python 3.11, FastAPI, Node.js, REST API, Pydantic, SQLAlchemy, Docker.
 - ☁️ **Bulut Veritabanı & Güvenlik:** PostgreSQL, Supabase (RLS), Firebase, OAuth2 Bearer, JWT Auth, RevenueCat.
-
----
-
-### 📊 GitHub İstatistikleri
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emreiskk&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Emre Işık GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreiskk&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
 
 ---
 
